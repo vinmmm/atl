@@ -1,0 +1,23 @@
+{
+  "name": "zebyoulawn",
+  "version": "0.0.0",
+  "description": "None",
+  "main": "zebyoulawn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Ryanysus",
+  "license": "GPL, MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "express": "~4.4.2",
+    "express3-handlebars": "~0.5.0"
+  }
+}
